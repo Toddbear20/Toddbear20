@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        var date = new Date();
+        var year = date.getFullYear();
+        var month = date.getMonth();
+        var day = date.getDay();
+        var hours = date.getHours();
+        var minutes = date.getMinutes();
+        var seconds = date.getSeconds();
+
+        var hour = 22;
+
+        if(hour < 5){
+            alert('꿈나라에...');
+        } else if(hour < 7) {
+            alert('아직은 씻을 생각이 없지만 일어나있다.');
+        } else {
+                if (hour < 8){
+                    alert('이젠 씻어야지');
+                } else {
+                    if (hour < 9){
+                        alert('지금 지하철이 아니라면 뛰어야 한다.');
+                    } else{
+                        if (hour < 13){
+                            alert('오전 수업');
+
+                        } else {
+                            if (hour < 14){
+                                alert('오늘 뭐 먹지');
+                            } else {
+                                if (hour < 18){
+                                    alert('오후 수업 및 과제 수행');
+                                } else {
+                                    if (hour < 20){
+                                        alert('고생했네, 운동해야지')
+                                    } else {
+                                        if (hour < 24){
+                                            alert('밥 먹고 자라.')
+                                        }
+                                    }
+                                }
+
+                                
+                            }
+                        }
+                    }
+                }
+            }
+        
+
+
+
+
+     
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

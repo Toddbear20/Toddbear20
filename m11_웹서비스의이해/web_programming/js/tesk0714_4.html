@@ -1,0 +1,32 @@
+<!-- 객체 속성의 자료형을 여라가지로 하고 특히 함수도 포함한 사례를 작성하세요. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>객체속성</title>
+    <script>
+        mul = {
+            number : 10,
+            math : function (){
+                var a =0
+                var b =0
+                for (var i =1; i< this.number; i++){
+                    a = i*(10-i)
+                    if(a>b){
+                        b= i*(10-i)
+                    }
+                }
+            alert(b)}
+            
+            
+
+        }
+        mul.math()
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

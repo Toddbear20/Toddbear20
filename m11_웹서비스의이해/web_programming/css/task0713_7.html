@@ -1,0 +1,166 @@
+<!-- 종합예제 1을 기반으로 CSS를 추가하여 웹의 완성도를 재고하세요.(응용 대환영) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HTML5 Basic page</title>
+    <style>
+        #page_wrapper{
+            background-color: antiquewhite;
+        }
+
+
+        .master-title{
+            width: 400px; height: 100px;
+            margin: 0 auto;
+            margin-top: 50px;
+            border-radius: 10px 10px 10px 10px;
+            text-align: center;
+            line-height: 100px;
+            color: antiquewhite;
+             /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f0b7a1+0,8c3310+50,752201+51,bf6e4e+100;Brown+Gloss */
+background: #f0b7a1; /* Old browsers */
+background: -moz-linear-gradient(top,  #f0b7a1 0%, #8c3310 50%, #752201 51%, #bf6e4e 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b7a1', endColorstr='#bf6e4e',GradientType=0 ); /* IE6-9 */
+        }
+        #main-section{
+            width: 600px; height: 900px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        #main-section .article-header{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 120%;
+            color: #8c3310;
+        }
+        #main-section .article-body{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 120%;
+            color: darkblue;
+        }
+        .pull-right{
+            float:right;
+        }
+
+     
+
+
+    </style>
+</head>
+<body>
+    <div id="page_wrapper">
+        <header id="main-header"></header>
+        <hgroup>
+            <h1 class="master-title">HTML5 정복해보자!</h1>
+            <h2 class="master-description">CAKD7</h2>
+        </hgroup>
+        <nav id="main-navigation">
+            <div class="pull-left">
+                <ul class="outer-menu">
+                    <li class="outer-menu-item">
+                        <span class="menu-title">HTML5</span>
+                        <span class="sub-title">Chapter 01 웹페이지 기본 구조와 작성 방법</span>
+                        <ul class="inner-menu">
+                            <li class="inner-menu-item"><a href=#>HTML5 기본용어</a></li>
+                            <li class="inner-menu-item"><a href=#>HTML5 페이지 구조와 작성법</a></li>
+                            <li class="inner-menu-item"><a href=#>오류와 검증</a></li>
+                        </ul>
+                    </li>
+                    <li class="outer-menu-item">
+                        <span class="menu-title">CSS3</span>
+                        <span class="sub-title">Chapter 02 CSS3 기초: 선택자와 단위</span>
+                        <ul class="inner-menu">
+                            <li class="inner-menu-item"><a href="#">선택자의 용도와 사용법</a></li>
+                            <li class="inner-menu-item"><a href="#">기본 선택자</a></li>
+                            <li class="inner-menu-item"><a href="#">속성 선택자</a></li>
+                            <li class="inner-menu-item"><a href="#">후손 선택자와 자손 선택자</a></li>
+                            <li class="inner-menu-item"><a href="#">반응/상태/구조 선택자</a></li>
+                            <li class="inner-menu-item"><a href="#">CSS3 단위</a></li>
+                        </ul>
+                    </li>
+                    <li class="outer-menu-item">
+                        <span class="menu-title">JavaScript</span>
+                        <span class="sub-title">Chapter 03 자바스크립트와 jQuery라이브러리 응용 </span>
+                        <ul class="inner-menu">
+                            <li class="inner-menu-item"><a href="#">입력 양식 포커스</a></li>
+                            <li class="inner-menu-item"><a href="#">프레임 애니메이션</a></li>
+                            <li class="inner-menu-item"><a href="#">문서 객체 생성과 추가</a></li>
+                            <li class="inner-menu-item"><a href="#">무한 스크롤</a></li>
+                            <li class="inner-menu-item"><a href="#">플러그인 사용</a></li>
+                            <li class="inner-menu-item"><a href="#">갤러리</a></li>
+                            <li class="inner-menu-item"><a href="#">연습문제</a></li>
+                            <li class="inner-menu-item"><a href="#">종합예제-블로글에 자바스크립트 적용</a></li>
+                        </ul>
+                    </li>
+
+                    </ul>
+            </div>
+            <div class="pull-right">
+                <div class="seach-bar">
+                    <form>
+                        <input type="text" class="input-search">
+                        <input type="submit" class="input-search-submit" value="검색">
+                    </form>
+                </div>
+            </div>
+        </nav>
+        <div id="content">
+            <section id="main-section">
+                <article>
+                    <div class="article-header">
+                        <h1 class="article-title">HTML5 개요와 활용</h1>
+                        <p class="article-date">2022년 07월 12일</p>
+                    </div>
+                    <div class="article-body">
+                        <img src="https://blog.kakaocdn.net/dn/1FXSW/btrj7QLs9lk/zfMRE48H2WWkpzo4JeK5P0/img.jpg" alt="screen" height="200" width="300" >
+                        <br>
+                        <br>
+                        <p>어서오세요.</p>
+                        <p>HTML5는 처음이시죠?</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="article-header">
+                        <h1 class="article-title">HTML5 응용과 실습</h1>
+                        <p class="article-date">20222년 07월 12일</p>
+                    </div>
+                    <div class="article-body">
+                        <img src="https://image.edaily.co.kr/images/photo/files/NP/S/2021/09/PS21091000111.jpg" height="200" width="300">
+                        <br>
+                        <p>문제를 풀어도 보고 실습도 하면서,</p>
+                        <p>HTML5를 마스터해봅시다.</p>
+                    </div>
+                </article>
+            </section>
+            <aside id="main-aside">
+                <div class="aside-list">
+                    <h3>카테고리</h3>
+                    <ul>
+                        <li><a href="#">저자</a></li>
+                        <li><a href="#">오시는 길</a></li>
+                        <li><a href="#">관련 자료</a></li>
+                        <li><a href="#">게시판</a></li>
+                        <li><a href="#">Q&A</a></li>
+                    </ul>
+                </div>
+                <div class="aside_list">
+                    <h3>최근 글</h3>
+                    <ul>
+                        <li><a href="#">오늘의 숙제</a></li>
+                        <li><a href="#">내일의 숙제를 데이터분석으로 예상해보자!</a></li>
+                        <li><a href="#">시각화 자료</a></li>
+                        <li><a href="#">시각화 심화</a></li>
+                        <li><a href="https://ko.javascript.info/">자바스크립트 튜토리얼 홈페이지</a></li>
+                    </ul>
+                </div>
+            </aside>
+        </div>
+        <footer id="main-footer">
+            <a href="#">ITCookBook HTML5 Programming</a>
+        </footer>
+
+
+    </div>
+</body>
+</html>

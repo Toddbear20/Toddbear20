@@ -1,0 +1,91 @@
+<!-- 후손 선택지와 자손 선택지를 생성하여 스타일을 적용하여 구현하고 그 차이를 확인하세요. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Childs</title>
+    <style>
+        #header h1, #header h6{
+            color:white;
+            background: linear-gradient(to bottom, red, rgb(188, 27, 228), blue);
+            width: 400px; height: 200px;
+            font-size: 300%;
+            text-align: center;
+            border-radius: 10pt 10pt 10pt 10pt;
+        }
+        #section > h1{
+            color:azure;
+            background-color: olive;
+            text-align: center;
+            font-size: 200%;
+            border-radius: 10pt 10pt 10pt 10pt;
+            width: 400px; height: 100px;
+        }
+        .box:first-child{
+            height: 200px;
+            color:white;
+            font-size: 200%;
+            background-color: sienna;
+        }
+        .box:last-child{
+            width: 400px; height: 200px;
+            color:white;
+            font-size: 50%;
+            background-color: darkgoldenrod;
+        }
+        .box:nth-child(2n-1){
+            width: 400px; height: 200px;
+            color:white;
+            font-size: 200%;
+            background-color: sienna;
+        }
+        .box:nth-child(2n){
+            width: 400px; height: 200px;
+            color:white;
+            font-size: 50%;
+            background-color:darkgoldenrod;
+        }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1>후손</h1>
+        
+    </div>
+    <div id="header">
+        <h6>후손2</h6>
+        <div id="section">
+            <h1>후손</h1>
+        </div>
+    </div>
+    <div id="section">
+        <h1>자손</h1>
+        <ul>
+            <h1>자손</h1>
+        </ul>
+    </div>
+    <div class="box">
+        <h1>작은 글씨</h1>
+    </div>
+    <div class="box">
+        <h1>큰 글씨</h1>
+    </div>
+    <div class="box">
+        <h1>작은 글씨</h1>
+    </div>
+    <div class="box">
+        <h1>큰 글씨</h1>
+    </div>
+    <div class="box">
+        <h1>작은 글씨</h1>
+    </div>
+    <div class="box">
+        <h1>큰 글씨</h1>
+    </div>
+    <div class="box">
+        <h1>작은 글씨</h1>
+    </div>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!-- <!— 조건문(if, else if, else)를 사용하여 백만원의 예산을 감안한 다양한 시나리오의 쇼핑계획을 작성하시오. —> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>task_0714-1</title>
+    <script>
+        var budget = 1000000;
+        var li = {
+            watch : 500000,
+            shoes : 200000,
+            bag : 200000,
+            shirts : 50000,
+            pants : 100000,
+            socks : 5000
+        };
+        var func = {
+            f : function f() {
+            console.log('현명한 소비합시다.')
+            },
+            g : function g() {
+            console.log('내 이럴줄 알았다.')
+            }
+        }
+        console.log("예산은 "+budget+" 원 입니다.");
+        for (i in li) {
+            if (budget >= li[i]) {
+                budget = budget - li[i];
+                console.log(i+"를 "+li[i]+"원에 구입하셨습니다.");
+                console.log("남은 예산은 "+budget+"원 입니다.");
+                func.f();
+            }
+            else {
+                console.log("예산이 부족하여 "+i+"를 구입할 수 없습니다.");
+                func.g();
+            }
+        }
+    </script>
+</head>
+<body>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        var date = new Date();
+        var year = date.getFullYear();
+        var month = date.getMonth();
+        var day = date.getDay();
+        var hours = date.getHours();
+        var minutes = date.getMinutes();
+        var seconds = date.getSeconds();
+
+
+        if (month <= 2 || month >= 12) {
+            console.log('winter');
+        }
+        if (month <= 5) {
+            console.log('spring');
+        }
+        if (month <= 8) {
+            console.log('summer');
+        }
+
+        // Date 객체를 선언합니다: 현재 시간 측정
+        var date = new Date();
+
+        // 요소를 추출합니다.
+        var hour = date.getHours();
+        console.log(hour+' 시 입니다.')
+
+        if (hour<12) {
+            console.log('지금은 오전 입니다.')
+        }
+
+        else {
+            console.log('지금은 오후 입니다.')
+        }
+
+
+
+
+     
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

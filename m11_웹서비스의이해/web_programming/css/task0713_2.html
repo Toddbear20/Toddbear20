@@ -1,0 +1,54 @@
+<!-- 유동속성, 그림자(글자, 박스, 중첩), 그레이디언트 속성 사례를 작성하여 그 효과를 설명하세요. <p201~211> -->
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+            img{float:inline-end;}
+
+            #box p{width: 300px; 
+                height: 100px;
+                border: 3px solid black;
+                box-shadow: 10px 10px 30px black;
+                text-shadow: 5px 5px 5px black;
+                font-size: 20px;
+                top: 10px;
+                position: relative;}
+            
+            .section{
+                position: relative;
+                top: 20px;
+                color: azure;
+                width: 600px; height: 50px;
+                    font-size: large;
+                    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f0b7a1+0,8c3310+50,752201+51,bf6e4e+100;Brown+Gloss */
+background: #f0b7a1; /* Old browsers */
+background: -moz-linear-gradient(top,  #f0b7a1 0%, #8c3310 50%, #752201 51%, #bf6e4e 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b7a1', endColorstr='#bf6e4e',GradientType=0 ); /* IE6-9 */
+
+            }
+        </style>
+    </head>
+    <body>
+        <img src="hanbit.jpg">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae rhoncus massa, ac efficitur neque. Mauris volutpat neque vel urna accumsan cursus. Nullam et fermentum magna, eget molestie tellus. </p>
+        <p>Mauris ac magna nibh. Sed quis velit orci. Vestibulum scelerisque quam dui, auctor tempus nulla eleifend euismod. Vestibulum elementum mattis posuere. </p>
+        
+        <div id="box">
+            <p>Lorem ipsum dolor sit amet, </p>
+        </div>
+        <div class="section">
+            가시성이 향상되고 세련된 스타일의 페이지를 만들 때 유용하다.
+        </div>
+        <br>
+        <div>
+            <a href="https://www.colorzilla.com/gradient-editor/">그라데이션 생성기</a>
+        </div>
+    </body>
+
+    </html>
