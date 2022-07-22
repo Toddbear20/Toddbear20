@@ -1,0 +1,1259 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5STK4X3');</script>
+	<!-- End Google Tag Manager -->
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="icon" type="image/svg+xml" href="/wp-content/themes/coe/assets/dist/img/favicons/favicon.svg">
+	<link rel="apple-touch-icon" sizes="180x180" href="/wp-content/themes/coe/assets/dist/img/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/coe/assets/dist/img/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/coe/assets/dist/img/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/wp-content/themes/coe/assets/dist/img/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/wp-content/themes/coe/assets/dist/img/favicons/safari-pinned-tab.svg" color="#c5050c">
+	<meta name="msapplication-TileColor" content="#c5050c">
+	<meta name="msapplication-config" content="/wp-content/themes/coe/assets/dist/img/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+	<link rel="preconnect" href="https://www.googletagmanager.com">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>College of Engineering - UW-Madison</title>
+	<meta name="description" content="Welcome to the College of Engineering at the University of Wisconsin-Madison, known for our outstanding research, educators and service to society." />
+	<link rel="canonical" href="https://engineering.wisc.edu/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="College of Engineering - UW-Madison" />
+	<meta property="og:description" content="Welcome to the College of Engineering at the University of Wisconsin-Madison, known for our outstanding research, educators and service to society." />
+	<meta property="og:url" content="https://engineering.wisc.edu/" />
+	<meta property="og:site_name" content="College of Engineering - University of Wisconsin-Madison" />
+	<meta property="article:modified_time" content="2022-06-06T18:43:23+00:00" />
+	<meta property="og:image" content="https://engineering.wisc.edu/wp-content/uploads/2022/02/default-16x9-1-scaled-scaled.jpg" />
+	<meta property="og:image:width" content="2560" />
+	<meta property="og:image:height" content="1440" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://engineering.wisc.edu/#organization","name":"College of Engineering - University of Wisconsin-Madison","url":"https://engineering.wisc.edu/","sameAs":[],"logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://engineering.wisc.edu/#/schema/logo/image/","url":"https://engineering.wisc.edu/wp-content/uploads/2021/09/UW_Engineering_color-flush.svg","contentUrl":"https://engineering.wisc.edu/wp-content/uploads/2021/09/UW_Engineering_color-flush.svg","width":295,"height":81,"caption":"College of Engineering - University of Wisconsin-Madison"},"image":{"@id":"https://engineering.wisc.edu/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://engineering.wisc.edu/#website","url":"https://engineering.wisc.edu/","name":"College of Engineering - University of Wisconsin-Madison","description":"","publisher":{"@id":"https://engineering.wisc.edu/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://engineering.wisc.edu/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://engineering.wisc.edu/#primaryimage","url":"https://engineering.wisc.edu/wp-content/uploads/2022/02/default-16x9-1-scaled-scaled.jpg","contentUrl":"https://engineering.wisc.edu/wp-content/uploads/2022/02/default-16x9-1-scaled-scaled.jpg","width":2560,"height":1440,"caption":"UW Crest with engineering background"},{"@type":"WebPage","@id":"https://engineering.wisc.edu/","url":"https://engineering.wisc.edu/","name":"College of Engineering - UW-Madison","isPartOf":{"@id":"https://engineering.wisc.edu/#website"},"about":{"@id":"https://engineering.wisc.edu/#organization"},"primaryImageOfPage":{"@id":"https://engineering.wisc.edu/#primaryimage"},"datePublished":"2021-08-26T19:05:14+00:00","dateModified":"2022-06-06T18:43:23+00:00","description":"Welcome to the College of Engineering at the University of Wisconsin-Madison, known for our outstanding research, educators and service to society.","breadcrumb":{"@id":"https://engineering.wisc.edu/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://engineering.wisc.edu/"]}]},{"@type":"BreadcrumbList","@id":"https://engineering.wisc.edu/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Homepage"}]}]}</script>
+	<meta name="google-site-verification" content="LUqi0nhI3aXiXla8_hafYPuNcAtABYBVbBG_XG3k0uM" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.wisc.cloud' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//engineering.wisc.edu' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='tribe-events-pro-mini-calendar-block-styles-css'  href='https://engineering.wisc.edu/wp-content/plugins/events-calendar-pro/src/resources/css/tribe-events-pro-mini-calendar-block.min.css?ver=5.14.3' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://engineering.wisc.edu/wp-includes/css/dist/block-library/style.min.css?ver=4245e409ad280300fa2b72fde5524666' media='all' rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='theme-styles-css'  href='https://engineering.wisc.edu/wp-content/themes/coe/assets/dist/css/theme.min.css?ver=1658343148' media='all' />
+<link rel='stylesheet' id='swiper-styles-css'  href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/7.2.0/swiper-bundle.min.css' media='all' integrity="sha512-BYn1UZcpzkgi4cForzUzU/FqsewIcfXDYAU0tThFfehimrUrp5hOtcWPI1Wpli8rKopUIhaDCbxXPttBDTISgA==" crossorigin="anonymous" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<link rel='stylesheet' id='font-awesome-css'  href='https://use.fontawesome.com/releases/v5.15.4/css/all.css?ver=4245e409ad280300fa2b72fde5524666' media='all' rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<link rel='stylesheet' id='font-lato-css'  href='https://fonts.googleapis.com/css2?family=Lato%3Aital%2Cwght%400%2C400%3B0%2C700%3B0%2C900%3B1%2C400%3B1%2C700%3B1%2C900&#038;display=swap&#038;ver=4245e409ad280300fa2b72fde5524666' media='all' rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<script src='https://engineering.wisc.edu/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://engineering.wisc.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://engineering.wisc.edu/wp-json/wp/v2/pages/45038" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://engineering.wisc.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://engineering.wisc.edu/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://engineering.wisc.edu/' />
+<link rel="alternate" type="application/json+oembed" href="https://engineering.wisc.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fengineering.wisc.edu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://engineering.wisc.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fengineering.wisc.edu%2F&#038;format=xml" />
+<!-- Stream WordPress user activity plugin v3.9.0 -->
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://engineering.wisc.edu"><link rel="alternate" href="https://engineering.wisc.edu/wp-json/tribe/events/v1/" /><meta name="post-type" content="page"><meta name="author" content="Ascedia -"><style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://engineering.wisc.edu/wp-content/uploads/2022/03/cropped-crest_icon-1x1-1-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://engineering.wisc.edu/wp-content/uploads/2022/03/cropped-crest_icon-1x1-1-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://engineering.wisc.edu/wp-content/uploads/2022/03/cropped-crest_icon-1x1-1-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://engineering.wisc.edu/wp-content/uploads/2022/03/cropped-crest_icon-1x1-1-1-270x270.jpg" />
+		<style id="wp-custom-css">
+			/* used on publications page to hide shadow on cards */
+.card-no_shadow .row .col .card{
+	border:none;
+}
+ .statistic-statistic.mt-md-4 {
+    margin-top: .5rem !important; }
+.textRed{color: #c5050c;}
+
+.acf-block-testimonial .pt-4 {    padding-top: 0rem!important;}
+
+.acf-block-card .card-footer {padding: 0.5rem 1rem 1.5rem 1rem}
+
+#report.acf-block-card .card-img-overlay, #adResources.acf-block-card .card-img-overlay {background-color: rgba(0,0,0,0)!important;}
+
+#report a {font-weight: 700 !important;}
+
+/* light grey background for cards */
+#AcdmGrvCmp .card, #AcdmGrvCmp .card-footer, #ugRank .card, #gradRank .card {background-color: #f0f1f2 !important;}
+
+/* manual # placement on Facts & stags page */
+.midSuper {font-size: .5em; vertical-align: .35em}
+
+/* Vitesse */
+.statFont {font-family: Vitesse; }
+#statBlock1 .card-title, #ugRank .card-title, #gradRank .card-title {
+  text-align: center;
+}		</style>
+		</head>
+
+<body class="home page-template-default page page-id-45038 wp-custom-logo wp-embed-responsive tribe-no-js page-template-code-wp-content-themes-coe-page-php group-blog">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5STK4X3" height="0" width="0"
+			style="display:none;visibility:hidden"></iframe></noscript>	
+	<!-- End Google Tag Manager (noscript) -->
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+	<a class="visually-hidden-focusable" href="#content">Skip to main content</a>
+
+	
+<header>
+		<div class="alert-bar">
+			</div>
+		<div class="utility-bar bg-dark">
+		<div class="container d-flex flex-row align-content-center ">
+							<div id="block-3" class="d-flex align-items-center widget_block"><ul class="nav d-none d-md-flex" style="color:#cacbcc;">
+<li class="nav-item p-2"><a href="https://www.wisc.edu/" target="_blank" class="text-decoration-none" rel="noopener noreferrer">University of Wisconsin-Madison</a></li>
+</ul></div>			
+				<nav class="align-items-center ms-auto" aria-label="Utility Menu"><ul id="utility-menu" class="nav d-none d-md-flex" role="menu"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-57059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57059 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/about/faculty-and-staff-directory/" class="nav-link">People</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/admissions/visit/" class="nav-link">Visit</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-54222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54222 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/giving/" class="nav-link">Giving</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-55576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55576 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/alumni/" class="nav-link">Alumni</a></li>
+</ul></nav>	
+		</div>
+	</div>
+	<nav class="container navbar navbar-expand-lg navbar-light flex-wrap flex-lg-nowrap">
+				<a href="/" class="navbar-brand"><img width="295" height="81" src="https://engineering.wisc.edu/wp-content/uploads/2021/09/UW_Engineering_color-flush.svg" class="img-fluid" alt="College of Engineering - University of Wisconsin Madison" loading="lazy" height="83" width="300" /></a>
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-primary" aria-controls="navbar-primary" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbar-primary">
+			<div class="d-lg-none mt-4 mb-3">
+				<form role="search" method="get" class="search-form" action="https://engineering.wisc.edu/">
+				<label class="input-group">
+						<span class="visually-hidden">Search for:</span>
+						<input class="form-control" type="input" aria-label="Search" placeholder="search" value="" name="s" title="Search for:" />
+						<span class="input-group-append">
+							<button class="btn btn-search" type="submit" value="search">
+								<i class="fa fa-search"></i> <span class="visually-hidden">Search</span>
+							</button>
+						</span>
+					</label>
+				</form>
+			</div>
+			<nav class="ms-auto" aria-label="Main Menu"><ul id="main-menu" class="navbar-nav" role="menu"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-45228 nav-item" role="menuitem"><a href="#" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-45228">About</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-45228" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-46162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46162 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/about/" class="dropdown-item">Who we are</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-58419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58419 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/about/inclusion-equity-and-diversity/" class="dropdown-item">Inclusion, equity and diversity</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-46136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46136 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/departments/" class="dropdown-item">Departments</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-50710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50710 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/student-services/" class="dropdown-item">Student services</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-52302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52302 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/industry-partnerships/" class="dropdown-item">Industry partnerships</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-45229 nav-item" role="menuitem"><a href="#" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-45229">Degrees &amp; Programs</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-45229" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45610 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/degrees-programs/undergraduate/" class="dropdown-item">Undergraduate</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45609 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/degrees-programs/graduate/" class="dropdown-item">Graduate</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-51733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51733 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/research/" class="nav-link">Research</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-52681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-52681 nav-item" role="menuitem"><a href="#" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-52681">Admissions</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-52681" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-60970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60970 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/admissions/undergraduate/" class="dropdown-item">Undergraduate</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-60972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60972 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/admissions/graduate/" class="dropdown-item">Graduate</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-58408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58408 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/student-life/" class="nav-link">Student Life</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45253 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/news/" class="nav-link">News</a></li>
+</ul></nav>			<nav class="mt-3 d-lg-none mb-4" aria-label="Utility Menu"><ul id="utility-menu-collapse" class="navbar-nav" role="menu"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57059 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/about/faculty-and-staff-directory/" class="nav-link">People</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/admissions/visit/" class="nav-link">Visit</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54222 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/giving/" class="nav-link">Giving</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55576 nav-item" role="menuitem"><a href="https://engineering.wisc.edu/alumni/" class="nav-link">Alumni</a></li>
+</ul></nav>
+			<div class="d-none d-lg-flex dropdown">
+			<ul class="navbar-nav">
+				<li class="nav-item dropstart">
+					<a class="nav-link" title="display search box" id="dropdownSearchButton" role="button" data-bs-toggle="dropdown" aria-expanded="false"><span class="fa-stack fa-1x"><i class="fas fa-circle fa-stack-2x text-light"></i><i class="fas fa-search fa-stack-1x"></i></span></a>
+					<div class="dropdown-menu dropdown-search" aria-labelledby="dropdownSearchButton">
+						<form role="search" method="get" class="px-3 py-2" action="https://engineering.wisc.edu/">
+							<div class="input-group">
+								<input class="form-control" type="input" aria-label="Search" placeholder="search" value="" name="s" title="Search for:" />									
+								<button class="btn btn-search" type="submit" value="search">
+									<i class="fa fa-search"></i> <span class="visually-hidden">Search</span>
+								</button>
+							</div>
+						</form>					            
+					</div>
+        		</li>
+      		</ul>			
+		</div>
+	</nav>	
+</header>
+	
+
+<main class="main main-default" id="content">
+	<div class="content container">
+			
+<!-- start template-parts/content/content-page.php -->
+
+
+<div  class="acf-block-hero block_615df080327d7 alignfull   mb-5 ">
+    <div class="hero-container d-flex bg-secondary hero-spacing-large has-navigation" style="background-image: url(https://engineering.wisc.edu/wp-content/uploads/2021/10/bg-pattern-red.svg);">
+        <div class="container d-flex flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-start align-items-lg-center">
+                            <div class="hero-heading text-white text-left">                    
+                    <h1 class="text-white m-0 h1"> <span class="fw-normal">As a Badger engineer, you&#8217;re in charge of your future. </span><strong>We&#8217;re here to help you make it happen.</strong> </h1>
+                </div>
+                                </div>
+    </div>
+            <div class="container navigation ms-auto" >
+                        <nav class="type-manual nav flex-column flex-md-row">        
+                                        <a class="flex-fill nav-link text-reset text-uppercase fs-5 px-3 px-lg-5 py-3" href="https://engineering.wisc.edu/degrees-programs/undergraduate/" >Undergraduate                                                            <span class="subtitle d-block fs-6">Programs</span>
+                                                    </a>
+                                            <a class="flex-fill nav-link text-reset text-uppercase fs-5 px-3 px-lg-5 py-3" href="https://engineering.wisc.edu/degrees-programs/graduate/" >Graduate                                                            <span class="subtitle d-block fs-6">Programs</span>
+                                                    </a>
+                                            <a class="flex-fill nav-link text-reset text-uppercase fs-5 px-3 px-lg-5 py-3" href="https://engineering.wisc.edu/departments/" >Departments                                                            <span class="subtitle d-block fs-6">Explore All</span>
+                                                    </a>
+                                </nav>
+                    
+                    </div>
+    </div>
+
+
+<div  class="acf-block-card-horizontal block_6179a9c5e2321 my-5 ">
+			<div class="py-4">
+
+		
+
+		
+																	<div class="card border-0 img-right">
+								<div class="row g-0">
+									<div class="d-flex align-items-center col-lg-6 order-3">
+																					<div class="ratio ratio-16x9">
+																								<img width="825" height="550" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/Carolyn-Schaefer-Pegasus-III_2_F6A6927-copy-825w.jpg" class="card-img" alt="Photo of Carolyn Schaefer" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/Carolyn-Schaefer-Pegasus-III_2_F6A6927-copy-825w.jpg 825w, https://engineering.wisc.edu/wp-content/uploads/2021/10/Carolyn-Schaefer-Pegasus-III_2_F6A6927-copy-825w-512x341.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/Carolyn-Schaefer-Pegasus-III_2_F6A6927-copy-825w-768x512.jpg 768w" sizes="(max-width: 825px) 100vw, 825px" />																																															</div>
+										
+									</div>
+									<div class="col-lg-6 order-2 d-flex align-items-center">
+										<div class="card-body px-lg-4">
+																						<h2 class="card-title mb-3 h2">In the College of Engineering, we don&#8217;t just learn engineering, we do it every day.</h2>																						<div class="card-text"><p>As the second-largest college within the 14th-ranked public U.S. university, the College of Engineering is a research powerhouse—a place where innovation flourishes and creative thinking abounds.</p>
+</div>												
+																							<div class="card-links">
+																										<a href="https://engineering.wisc.edu/news/?_news_category=research" class="btn btn-link" >All research news<i class="fas fa-arrow-right ms-2" aria-hidden="true"></i></a>																									</div>
+																					</div>
+									</div>
+								</div>
+							</div>							
+																				
+		</div>
+	
+	</div>
+
+
+	<div  class="acf-block-statistics block_6227837812f42 bg-svg alignfull mt-5 py-5">
+		<div class="container">			<div class="statistics " id="statistics-block_6227837812f42">
+
+				
+	<div class="row flex-column flex-lg-row align-items-lg-center align-items-start mb-4 acf-block-part-introduction">
+		<div class="text-center col-12 ">
+			<h2 class="section-title h2">Our college at a glance</h2>					</div>
+		</div>
+
+				<div class=" row mt-md-5 ">
+											<div class="statistic text-center px-5 py-2 standard  col col-12 col-md-4 ">
+																								<div class="statistic-number fw-bold  text-primary ">
+										<span>75</span><sup><i class="fas fa-percent" title="Percent" aria-hidden="true"></i><span class="visually-hidden">Percent</span></sup>									</div>
+								
+																														<div class="statistic-statistic mt-md-4">
+									Faculty who have received early career/young investigator awards								</div>
+																				</div>
+											<div class="statistic text-center px-5 py-2 standard  col col-12 col-md-4 ">
+																								<div class="statistic-number fw-bold  text-primary ">
+										<sup><i class="fas fa-dollar-sign" title="US Dollar" aria-hidden="true"></i><span class="visually-hidden">US Dollars</span></sup><span>69</span><sup>K<span class="visually-hidden">Thousand</span></sup>									</div>
+								
+																														<div class="statistic-statistic mt-md-4">
+									Average starting salary after graduation								</div>
+																				</div>
+											<div class="statistic text-center px-5 py-2 standard  col col-12 col-md-4 ">
+																								<div class="statistic-number fw-bold  text-primary ">
+										<span>65</span><sup><i class="fas fa-plus" title="Plus" aria-hidden="true"></i><span class="visually-hidden">Plus</span></sup>									</div>
+								
+																														<div class="statistic-statistic mt-md-4">
+									Labs for hands-on learning								</div>
+																				</div>
+					
+				</div>
+							</div>
+					
+							<div class="col-12 mt-md-5 text-center">
+					<a class="btn btn-primary" href="https://engineering.wisc.edu/facts-and-stats/" >More facts &#038; stats</a>
+				</div>
+								 
+		</div>	</div>
+
+<script>
+	
+	</script>
+
+<div  class="acf-block-program-slider block_618e9fede81dc alignfull  my-0 py-5">
+    <div class="container">
+        <div class="py-3 text-white">
+
+        
+	<div class="row flex-column flex-lg-row align-items-lg-center align-items-start mb-4 acf-block-part-introduction">
+		<div class="text-center col-12 ">
+			<h2 class="section-title h2"><span class="pb-4">60+ degrees and programs led by award-winning faculty</span></h2>					</div>
+		</div>
+
+            <div class="row">               
+                <div class="col alignwide">
+                    <div class="swiper">
+                        <div class="swiper-wrapper">
+                                                        
+                                                            
+                                                                <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img loading="lazy" width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/biomedical-accelerated-512x341.jpeg" class="card-img wp-post-image" alt="" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/biomedical-accelerated-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/biomedical-accelerated-1024x682.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/biomedical-accelerated-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/biomedical-accelerated.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://pdc.wisc.edu/degrees/biomedical-engineering-accelerated-masters/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Biomedical Engineering: Accelerated Program, MS<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/biomedical-accelerated-innovation-512x341.jpg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/biomedical-accelerated-innovation-512x341.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/biomedical-accelerated-innovation-1024x682.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/biomedical-accelerated-innovation-768x512.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/biomedical-accelerated-innovation.jpg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://pdc.wisc.edu/degrees/biomedical-innovation-design-entrepreneurship/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Biomedical Engineering: Biomedical Innovation, Design, and Entrepreneurship, MS<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/09/biomedical-bs-512x288.jpeg" class="card-img wp-post-image" alt="biomedical engineering hand" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/09/biomedical-bs-512x288.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/09/biomedical-bs-1024x576.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/09/biomedical-bs-768x432.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/09/biomedical-bs-1536x864.jpeg 1536w, https://engineering.wisc.edu/wp-content/uploads/2021/09/biomedical-bs-2048x1152.jpeg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/biomedical-engineering-bs/" class="stretched-link text-decoration-none" >Biomedical Engineering, BS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="400" height="225" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/biomed-phd.png" class="card-img wp-post-image" alt="" loading="lazy" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/biomedical-engineering-phd/" class="stretched-link text-decoration-none" >Biomedical Engineering, PhD</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/biomed-research-ms-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/biomed-research-ms-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/biomed-research-ms-1024x682.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/biomed-research-ms-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/biomed-research-ms.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/biomedical-engineering-research-ms/" class="stretched-link text-decoration-none" >Biomedical Engineering: Research, MS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/12/EngineDesignProfProgCap-512x288.jpg" class="card-img wp-post-image" alt="Close up of Engine" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/12/EngineDesignProfProgCap-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/12/EngineDesignProfProgCap-1024x576.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/12/EngineDesignProfProgCap-768x432.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/12/EngineDesignProfProgCap-1536x864.jpg 1536w, https://engineering.wisc.edu/wp-content/uploads/2021/12/EngineDesignProfProgCap-2048x1152.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://interpro.wisc.edu/online-degrees/engine-design/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Capstone Certificate in Engine Design<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PolymerProcessingCapCert-512x288.jpg" class="card-img wp-post-image" alt="Abstract image of polymer material" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PolymerProcessingCapCert-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PolymerProcessingCapCert-1024x576.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PolymerProcessingCapCert-768x432.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PolymerProcessingCapCert-1536x864.jpg 1536w, https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PolymerProcessingCapCert-2048x1152.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://interpro.wisc.edu/online-degrees/polymer-processing-and-manufacturing/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Capstone Certificate in Polymer Processing &#038; Manufacturing<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PwrCovrsnCntrlProfProgCapCert-512x288.jpg" class="card-img wp-post-image" alt="Close up of filament in light bulb" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PwrCovrsnCntrlProfProgCapCert-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PwrCovrsnCntrlProfProgCapCert-1024x576.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PwrCovrsnCntrlProfProgCapCert-768x432.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PwrCovrsnCntrlProfProgCapCert-1536x864.jpg 1536w, https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PwrCovrsnCntrlProfProgCapCert-2048x1152.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://interpro.wisc.edu/online-degrees/power-conversion-and-control-certificate/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Capstone Certificate in Power Conversion and Control<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PwrtrainElecProfProgCapCert-512x288.jpg" class="card-img wp-post-image" alt="Car plugged-in for charging" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PwrtrainElecProfProgCapCert-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PwrtrainElecProfProgCapCert-1024x576.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PwrtrainElecProfProgCapCert-768x432.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PwrtrainElecProfProgCapCert-1536x864.jpg 1536w, https://engineering.wisc.edu/wp-content/uploads/2021/12/IPP_PwrtrainElecProfProgCapCert-2048x1152.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://interpro.wisc.edu/online-degrees/powertrain-electrification/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Capstone Certificate in Powertrain Electrification<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/12/BME_BiologyEngrCert-512x288.jpg" class="card-img wp-post-image" alt="Close up of putting liquid into tray of vials" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/12/BME_BiologyEngrCert-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/12/BME_BiologyEngrCert-1024x576.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/12/BME_BiologyEngrCert-768x432.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/12/BME_BiologyEngrCert-1536x864.jpg 1536w, https://engineering.wisc.edu/wp-content/uploads/2021/12/BME_BiologyEngrCert-2048x1152.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://guide.wisc.edu/undergraduate/engineering/biomedical-engineering/biology-engineering-engineering-majors-certificate/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Certificate for Biology in Engineering for Engineering Majors<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/12/EP_CertEnergySust-512x288.jpg" class="card-img wp-post-image" alt="Solar panel on blue sky background" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/12/EP_CertEnergySust-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/12/EP_CertEnergySust-1024x576.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/12/EP_CertEnergySust-768x432.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/12/EP_CertEnergySust-1536x864.jpg 1536w, https://engineering.wisc.edu/wp-content/uploads/2021/12/EP_CertEnergySust-2048x1152.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://guide.wisc.edu/undergraduate/engineering/engineering-physics/engineering-energy-sustainability-certificate/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Certificate in Engineering for Energy Sustainability<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/12/ME_ThermalEnergySystems-512x288.jpg" class="card-img wp-post-image" alt="Green field, wind turbines and blue sky." loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/12/ME_ThermalEnergySystems-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/12/ME_ThermalEnergySystems-1024x576.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/12/ME_ThermalEnergySystems-768x432.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/12/ME_ThermalEnergySystems-1536x864.jpg 1536w, https://engineering.wisc.edu/wp-content/uploads/2021/12/ME_ThermalEnergySystems-2048x1152.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://guide.wisc.edu/undergraduate/engineering/mechanical-engineering/engineering-thermal-energy-systems-certificate/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Certificate in Engineering Thermal Energy Systems<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/12/CertIntlEngr-512x288.jpg" class="card-img wp-post-image" alt="Global map with push pins in various locations" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/12/CertIntlEngr-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/12/CertIntlEngr-1024x576.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/12/CertIntlEngr-768x432.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/12/CertIntlEngr-1536x864.jpg 1536w, https://engineering.wisc.edu/wp-content/uploads/2021/12/CertIntlEngr-2048x1152.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://guide.wisc.edu/undergraduate/engineering/college-wide/international-engineering-certificate/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Certificate in International Engineering<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/12/CertManufactEngr-512x288.jpg" class="card-img wp-post-image" alt="CNC Laser cutting metal" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/12/CertManufactEngr-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/12/CertManufactEngr-1024x576.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/12/CertManufactEngr-768x432.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/12/CertManufactEngr-1536x864.jpg 1536w, https://engineering.wisc.edu/wp-content/uploads/2021/12/CertManufactEngr-2048x1152.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://guide.wisc.edu/undergraduate/engineering/mechanical-engineering/manufacturing-engineering-certificate/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Certificate in Manufacturing Engineering<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/12/EP_CertNuclearEngrMat-512x288.jpg" class="card-img wp-post-image" alt="atom orbit in space" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/12/EP_CertNuclearEngrMat-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/12/EP_CertNuclearEngrMat-1024x576.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/12/EP_CertNuclearEngrMat-768x432.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/12/EP_CertNuclearEngrMat-1536x864.jpg 1536w, https://engineering.wisc.edu/wp-content/uploads/2021/12/EP_CertNuclearEngrMat-2048x1152.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://guide.wisc.edu/undergraduate/engineering/engineering-physics/nuclear-engineering-materials-certificate/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Certificate in Nuclear Engineering Materials<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/12/CertTechComm-512x288.jpg" class="card-img wp-post-image" alt="Close up typing on Laptop" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/12/CertTechComm-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/12/CertTechComm-1024x576.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/12/CertTechComm-768x432.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/12/CertTechComm-1536x864.jpg 1536w, https://engineering.wisc.edu/wp-content/uploads/2021/12/CertTechComm-2048x1152.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://guide.wisc.edu/undergraduate/engineering/college-wide/technical-communication-certificate/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Certificate in Technical Communication<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="342" src="https://engineering.wisc.edu/wp-content/uploads/2021/09/chemical-bs-512x342.jpg" class="card-img wp-post-image" alt="molecule chemical engineering" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/09/chemical-bs-512x342.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/09/chemical-bs-1024x683.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/09/chemical-bs-768x512.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/09/chemical-bs.jpg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/chemical-engineering-bs/" class="stretched-link text-decoration-none" >Chemical Engineering, BS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="342" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/chemical-research-512x342.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/chemical-research-512x342.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/chemical-research-1024x683.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/chemical-research-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/chemical-research.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/chemical-engineering-phd/" class="stretched-link text-decoration-none" >Chemical Engineering, PhD</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/civil-me-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/civil-me-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/civil-me-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/civil-me.jpeg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://pdc.wisc.edu/degrees/environmental-engineering/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Civil and Environmental Engineering: Environmental Engineering, ME<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/civil-phd-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/civil-phd-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/civil-phd-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/civil-phd.jpeg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/civil-and-environmental-engineering-phd/" class="stretched-link text-decoration-none" >Civil and Environmental Engineering, PhD</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2022/01/CEE_CivEnvEngrAcclrtdMS-512x288.jpg" class="card-img wp-post-image" alt="Overhead photo of a large Dam" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2022/01/CEE_CivEnvEngrAcclrtdMS-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2022/01/CEE_CivEnvEngrAcclrtdMS-1024x576.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2022/01/CEE_CivEnvEngrAcclrtdMS-768x432.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2022/01/CEE_CivEnvEngrAcclrtdMS-1536x864.jpg 1536w, https://engineering.wisc.edu/wp-content/uploads/2022/01/CEE_CivEnvEngrAcclrtdMS-2048x1152.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://pdc.wisc.edu/degrees/civil-environmental-engineering-professional/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Civil and Environmental Engineering: Professional, MS<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2022/01/CEE_CivEnvEngrResearchProgMS-512x288.jpg" class="card-img wp-post-image" alt="Drone photo looking down on large bridge" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2022/01/CEE_CivEnvEngrResearchProgMS-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2022/01/CEE_CivEnvEngrResearchProgMS-1024x576.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2022/01/CEE_CivEnvEngrResearchProgMS-768x432.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2022/01/CEE_CivEnvEngrResearchProgMS-1536x864.jpg 1536w, https://engineering.wisc.edu/wp-content/uploads/2022/01/CEE_CivEnvEngrResearchProgMS-2048x1152.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/civil-and-environmental-engineering-research-ms/" class="stretched-link text-decoration-none" >Civil and Environmental Engineering: Research, MS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/civil-bs-512x288.jpg" class="card-img wp-post-image" alt="bridge" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/civil-bs-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/civil-bs-1024x576.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/civil-bs-768x432.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/civil-bs.jpg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/civil-engineering-bs/" class="stretched-link text-decoration-none" >Civil Engineering, BS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="384" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/computer-bs-512x384.jpg" class="card-img wp-post-image" alt="circuit board" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/computer-bs-512x384.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/computer-bs-1024x769.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/computer-bs-768x577.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/computer-bs.jpg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/computer-engineering-bs/" class="stretched-link text-decoration-none" >Computer Engineering, BS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/design-innovation-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/design-innovation-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/design-innovation-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/design-innovation.jpeg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://pdc.wisc.edu/degrees/design-innovation/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Design + Innovation, MS<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/machine-learning-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/machine-learning-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/machine-learning-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/machine-learning.jpeg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://pdc.wisc.edu/degrees/signal-processing-machine-learning/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Electrical and Computer Engineering: Machine Learning and Signal Processing, MS<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-research-phd-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-research-phd-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-research-phd-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-research-phd.jpeg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/electrical-and-computer-engineering-phd/" class="stretched-link text-decoration-none" >Electrical and Computer Engineering, PhD</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/power--512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/power--512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/power--768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/power-.jpeg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://interpro.wisc.edu/online-degrees/electrical-engineering-power-engineering" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Electrical and Computer Engineering: Power Engineering, MS<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="261" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-accelerated-512x261.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-accelerated-512x261.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-accelerated-768x392.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-accelerated.jpeg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://pdc.wisc.edu/degrees/electrical-engineering/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Electrical and Computer Engineering: Professional, MS<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-research-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-research-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-research-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-research.jpeg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/electrical-and-computer-engineering-research-ms/" class="stretched-link text-decoration-none" >Electrical and Computer Engineering: Research, MS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-engineering-512x341.jpg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-engineering-512x341.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-engineering-1024x682.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-engineering-768x512.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/electrical-engineering.jpg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/electrical-engineering-bs/" class="stretched-link text-decoration-none" >Electrical Engineering, BS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/engine-system-512x288.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/engine-system-512x288.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/engine-system-768x432.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/engine-system.jpeg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://interpro.wisc.edu/online-degrees/master-of-engineering-engine-systems/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Engine Systems, ME<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="299" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/data-analytics-512x299.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/data-analytics-512x299.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/data-analytics-768x449.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/data-analytics.jpeg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://interpro.wisc.edu/online-degrees/engineering-data-analytics/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Engineering Data Analytics, ME<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/engineering-me-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/engineering-me-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/engineering-me-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/engineering-me.jpeg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://interpro.wisc.edu/online-degrees/engineering-management/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Engineering Management, ME<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="410" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/engineering-mechanics-512x410.jpg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/engineering-mechanics-512x410.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/engineering-mechanics-1024x819.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/engineering-mechanics-768x614.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/engineering-mechanics.jpg 1500w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/engineering-mechanics-aerospace-bs/" class="stretched-link text-decoration-none" >Engineering Mechanics (+Aerospace Engineering Option), BS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanics-accelerated-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanics-accelerated-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanics-accelerated-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanics-accelerated.jpeg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://pdc.wisc.edu/degrees/aerospace-engineering/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Engineering Mechanics: Aerospace Engineering, MS<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanics-phd-512x341.jpg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanics-phd-512x341.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanics-phd-768x512.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanics-phd.jpg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/engineering-mechanics-phd/" class="stretched-link text-decoration-none" >Engineering Mechanics, PhD</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="384" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-research-512x384.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-research-512x384.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-research-768x576.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-research.jpeg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/engineering-mechanics-research-ms/" class="stretched-link text-decoration-none" >Engineering Mechanics: Research, MS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/CoE_engr-physics-bs-512x288.jpg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/CoE_engr-physics-bs-512x288.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/CoE_engr-physics-bs.jpg 712w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/engineering-physics-bs/" class="stretched-link text-decoration-none" >Engineering Physics, BS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-phd-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-phd-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-phd-1024x682.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-phd-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-phd-1536x1024.jpeg 1536w, https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-phd-2048x1365.jpeg 2048w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/environmental-chemistry-and-technology-phd/" class="stretched-link text-decoration-none" >Environmental Chemistry and Technology, PhD</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-ms-512x288.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-ms-512x288.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-ms-768x432.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-ms.jpeg 900w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/environmental-chemistry-and-technology-research-ms/" class="stretched-link text-decoration-none" >Environmental Chemistry and Technology Research, MS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-1-512x341.jpg" class="card-img wp-post-image" alt="drinking fountain" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-1-512x341.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-1-1024x682.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-1-768x511.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/environmental-1.jpg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/environmental-engineering-bs/" class="stretched-link text-decoration-none" >Environmental Engineering, BS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/geological-512x341.jpg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/geological-512x341.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/geological-1024x682.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/geological-768x512.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/geological.jpg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/geological-engineering-bs/" class="stretched-link text-decoration-none" >Geological Engineering, BS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="384" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/geo-phd-512x384.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/geo-phd-512x384.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/geo-phd-1024x768.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/geo-phd-768x576.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/geo-phd.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/geological-engineering-phd/" class="stretched-link text-decoration-none" >Geological Engineering, PhD</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="340" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/geological-ms-512x340.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/geological-ms-512x340.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/geological-ms-1024x680.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/geological-ms-768x510.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/geological-ms.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/geological-engineering-research-program-ms/" class="stretched-link text-decoration-none" >Geological Engineering, MS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-bs-512x341.jpg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-bs-512x341.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-bs-1024x682.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-bs-768x512.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-bs.jpg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/industrial-engineering-bs/" class="stretched-link text-decoration-none" >Industrial Engineering, BS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-human-factors-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-human-factors-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-human-factors-1024x682.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-human-factors-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-human-factors.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://pdc.wisc.edu/degrees/human-factors-health-systems-engineering/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Industrial Engineering: Human Factors and Health Systems Engineering, MS<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="384" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-phd-512x384.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-phd-512x384.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-phd-1024x768.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-phd-768x576.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-phd.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/industrial-engineering-phd/" class="stretched-link text-decoration-none" >Industrial Engineering, PhD</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="342" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-ms-512x342.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-ms-512x342.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-ms-1024x683.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-ms-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/industrial-ms.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/industrial-engineering-research-ms/" class="stretched-link text-decoration-none" >Industrial Engineering: Research, MS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="342" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/system-engineering--512x342.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/system-engineering--512x342.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/system-engineering--1024x684.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/system-engineering--768x513.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/system-engineering-.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://pdc.wisc.edu/degrees/systems-engineering-analytics/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Industrial Engineering: Systems Engineering and Analytics, MS<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/manufacturing-systems-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/manufacturing-systems-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/manufacturing-systems-1024x682.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/manufacturing-systems-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/manufacturing-systems.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://interpro.wisc.edu/online-degrees/manufacturing-systems-engineering/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Manufacturing Systems Engineering, ME<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="358" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science-512x358.jpg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science-512x358.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science-1024x717.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science-768x538.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science.jpg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/materials-science-and-engineering-bs/" class="stretched-link text-decoration-none" >Materials Science and Engineering, BS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science-nano-512x288.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science-nano-512x288.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science-nano-1024x576.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science-nano-768x432.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science-nano.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://pdc.wisc.edu/degrees/materials-science-nanomaterials-nanoengineering/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Materials Science and Engineering: Materials Engineering, MS<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-phd-512x288.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-phd-512x288.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-phd-1024x576.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-phd-768x432.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-phd.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/materials-science-and-engineering-phd/" class="stretched-link text-decoration-none" >Materials Science and Engineering, PhD</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science-ms-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science-ms-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science-ms-1024x682.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science-ms-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-science-ms.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/materials-science-and-engineering-research-ms/" class="stretched-link text-decoration-none" >Materials Science and Engineering: Research, MS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-accelerated-ms-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-accelerated-ms-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-accelerated-ms-1024x682.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-accelerated-ms-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-accelerated-ms.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://pdc.wisc.edu/degrees/mechanical-engineering-accelerated/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Mechanical Engineering: Accelerated Program, MS<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="384" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-auto-512x384.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-auto-512x384.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-auto-1024x768.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-auto-768x576.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-auto.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://pdc.wisc.edu/degrees/automotive-engineering/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Mechanical Engineering: Automotive Engineering, MS<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-512x341.jpg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-512x341.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-1024x682.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-768x511.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical.jpg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/mechanical-engineering-bs/" class="stretched-link text-decoration-none" >Mechanical Engineering, BS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="288" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/modeling-and-simulation-512x288.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/modeling-and-simulation-512x288.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/modeling-and-simulation-1024x576.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/modeling-and-simulation-768x432.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/modeling-and-simulation.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://pdc.wisc.edu/degrees/mechanical-engineering-modeling-simulation/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Mechanical Engineering: Modeling and Simulation in Mechanical Engineering, MS<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-phd-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-phd-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-phd-1024x682.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-phd-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-phd.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/mechanical-engineering-phd/" class="stretched-link text-decoration-none" >Mechanical Engineering, PhD</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="348" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-ms-512x348.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-ms-512x348.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-ms-1024x697.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-ms-768x523.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/mechanical-ms.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/mechanical-engineering-research-ms/" class="stretched-link text-decoration-none" >Mechanical Engineering: Research, MS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="342" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear-engineering-ms-512x342.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear-engineering-ms-512x342.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear-engineering-ms-1024x684.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear-engineering-ms-768x513.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear-engineering-ms.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/nuclear-engineering-and-engineering-physics-ms/" class="stretched-link text-decoration-none" >Nuclear Engineering and Engineering Physics, MS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear-phd-512x341.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear-phd-512x341.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear-phd-1024x682.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear-phd-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear-phd.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/nuclear-engineering-and-engineering-physics-phd/" class="stretched-link text-decoration-none" >Nuclear Engineering and Engineering Physics, PhD</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="342" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear-512x342.jpg" class="card-img wp-post-image" alt="nuclear power plant" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear-512x342.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear-1024x683.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear-768x512.jpg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/nuclear.jpg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://engineering.wisc.edu/programs/degrees/nuclear-engineering-bs/" class="stretched-link text-decoration-none" >Nuclear Engineering, BS</a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="342" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/polymer-512x342.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/polymer-512x342.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/polymer-1024x683.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/polymer-768x512.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/polymer.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://interpro.wisc.edu/online-degrees/polymer-engineering/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Polymer Engineering, ME<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                            <div class="swiper-slide h-auto">
+                                    <div class="col">
+                                        <div class="card bg-dark text-white border-0">
+                                            <div class="ratio ratio-4x5">
+                                                <img width="512" height="384" src="https://engineering.wisc.edu/wp-content/uploads/2021/10/sustainable-512x384.jpeg" class="card-img wp-post-image" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2021/10/sustainable-512x384.jpeg 512w, https://engineering.wisc.edu/wp-content/uploads/2021/10/sustainable-1024x768.jpeg 1024w, https://engineering.wisc.edu/wp-content/uploads/2021/10/sustainable-768x576.jpeg 768w, https://engineering.wisc.edu/wp-content/uploads/2021/10/sustainable.jpeg 1280w" sizes="(max-width: 512px) 100vw, 512px" />                                            </div>
+                                            <div class="card-img-overlay d-flex align-items-end ">
+                                                <h3 class="card-title m-0 h4 "><a href="https://interpro.wisc.edu/online-degrees/sustainable-systems-engineering/" class="stretched-link text-decoration-none" rel="noopener noreferrer" target="_blank">Sustainable Systems Engineering, ME<i class="fas fa-external-link-alt fa-xs ms-2" title="extrenal link" aria-hidden="true"></i></a></h4>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>  
+                                                                                    
+                                                                                </div>
+                        <div class="d-none d-lg-flex mt-4 container-fluid">
+                            <div class="swiper-btn-prev"><img src="https://engineering.wisc.edu/wp-content/themes/coe/assets/dist/img/icons/chevron-circle-left-light.svg" width="60" height="60" alt="previous" loading="lazy" aria-hidden="true" /></div>
+                            <div class="swiper-btn-next"><img src="https://engineering.wisc.edu/wp-content/themes/coe/assets/dist/img/icons/chevron-circle-right-light.svg" width="60" height="60" alt="next" loading="lazy" aria-hidden="true" class="ms-2" /></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <script>
+        (function($) {           
+           $(document).ready(function() {
+               var swiperInstances = swiperInstances || {};
+               swiperInstances['block_618e9fede81dc'] = new Swiper('.block_618e9fede81dc .swiper', {
+                navigation: {
+                    nextEl: '.swiper-btn-next',
+                    prevEl: '.swiper-btn-prev',
+                },
+                initialSlide: 39,
+                centeredSlides: true,
+                loop: true,                
+                slidesPerView: 'auto',
+                spaceBetween: 20,
+                lazy: true,
+                breakpoints: {
+                    0: {
+							slidesPerView: 1.2,
+							spaceBetween: 20,
+						},
+                    576: {
+                        slidesPerView: 2.2,
+                        spaceBetween: 20,
+                    },
+                    992: {
+                        slidesPerView: 4,
+                        spaceBetween: 20,
+                    },
+                    1400: {
+                        slidesPerView: 4,
+                        spaceBetween: 20,
+                    },
+                    1800: {
+                        slidesPerView: 6,
+                        spaceBetween: 20,
+                    }
+               },
+               freeMode: {
+                    enabled: false,
+                    sticky: true,
+                },
+               });
+           });
+        })(jQuery);
+    </script>
+
+
+
+<div  class="acf-block-video-inline block_6179ac54e2326 bg-dark  alignfull mt-0 py-5 "  >
+    <div class="container">        <div class="collapse show collapse_block_6179ac54e2326" id="collapse_block_6179ac54e2326">
+            <div class="d-flex flex-column flex-md-row justify-content-center align-items-center col-12 col-lg-9 mx-auto p-5 my-lg-5">
+                <div class="text-center text-md-end my-3 px-n5">
+                    <h2 class="h3 text-white">Our students don&#8217;t just learn, they do.</h2>            												
+                </div>
+                                <div class="col">
+                    <a id="show_video-block_6179ac54e2326" class="text-white stretched-link display-1 ps-md-5" role="button" data-bs-toggle="collapse" data-bs-target=".collapse_block_6179ac54e2326" aria-expanded="false" aria-controls="collapse_block_6179ac54e2326 collapse_video_block_6179ac54e2326">
+                        <img src="https://engineering.wisc.edu/wp-content/themes/coe/assets/dist/img/icons/play-circle.svg" width="116" height="116" alt="show video" loading="lazy" />
+                    </a>
+                                    </div>
+            </div>            
+        </div>
+        <div class="collapse video-wrapper container  flex-column collapse_block_6179ac54e2326" id="collapse_videoblock_6179ac54e2326">
+            <div class="p-2 p-lg-5">
+                <div class="d-flex justify-content-end">
+                    <a class="text-white d-block text-right fs-4 align-self-end" role="button" data-bs-toggle="collapse" data-bs-target=".collapse_block_6179ac54e2326" aria-expanded="false" aria-controls="collapse_block_6179ac54e2326 collapse_video_block_6179ac54e2326">
+                        <i class="far fa-window-close" aria-hidden="true"></i><span class="visually-hidden">Close Video</span>
+                    </a>
+                </div>
+                <div class="ratio ratio-16x9">
+                                            <div id="player_block_6179ac54e2326"  title="YouTube video player" ></div>
+                            
+
+                                    </div>  
+            </div>
+        </div>
+    </div></div>
+
+<script>
+
+setTimeout(function () {
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+}, 3000);
+
+
+  var player;
+
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player_block_6179ac54e2326', {
+      height: '315',
+      width: '560',
+      videoId: 'sOgI-05NGbM'
+    });
+  }
+
+</script>
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+<h2 class="mt-5 pb-3 " style="text-align: center;">Community, opportunity, support</h2>
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+	<div  class="acf-block-cta-grid-with-card block_6179b572e2329  alignfull mt-n4 my-5 py-5">
+		<div class="container">			
+			<div class="row justify-content-between">
+				<div class="col col-md-6 order-1">
+									<div class="row gy-2  row-cols-2">
+												<div class="col py-2">
+								<div class="cta h-100">
+									<h3 class="h4"><a href="https://engineering.wisc.edu/research/undergraduate/" class="cta-link text-reset stretched-link" >Undergraduate research<i class="fas fa-arrow-right ms-2" aria-hidden="true"></i></a></h3>									<div class="cta-content">Undergrad research is great way to tap directly into our professors&#8217; expertise. Best of all, we don&#8217;t just <em>allow</em> our undergrads to participate in research—we <em>encourage</em> it.</div>								</div>
+							</div>
+													<div class="col py-2">
+								<div class="cta h-100">
+									<h3 class="h4"><a href="https://engineering.wisc.edu/student-life/student-organizations/" class="cta-link text-reset stretched-link" >Student orgs<i class="fas fa-arrow-right ms-2" aria-hidden="true"></i></a></h3>									<div class="cta-content">Connect, compete, network, learn, lead, volunteer, grow and more. Joining student orgs (but maybe not all 50 of them) gives you even more power to personalize your college experience.</div>								</div>
+							</div>
+													<div class="col py-2">
+								<div class="cta h-100">
+									<h3 class="h4"><a href="https://engineering.wisc.edu/student-services/wellness/" class="cta-link text-reset stretched-link" >Wellness<i class="fas fa-arrow-right ms-2" aria-hidden="true"></i></a></h3>									<div class="cta-content">We offer a well-rounded, collaborative approach to your well-being so that you can thrive. That means people and services to help you keep your academic, physical, emotional and mental health on track.</div>								</div>
+							</div>
+													<div class="col py-2">
+								<div class="cta h-100">
+									<h3 class="h4"><a href="https://engineering.wisc.edu/student-services/career-services/" class="cta-link text-reset stretched-link" >Career services<i class="fas fa-arrow-right ms-2" aria-hidden="true"></i></a></h3>									<div class="cta-content">As an engineer, you get the best of both worlds: It&#8217;s a really fun major. It&#8217;s also a career that&#8217;s in super-high demand. In other words, your job outlook both during and after college is pretty rosy. </div>								</div>
+							</div>
+											</div>
+				</div>
+								<div class="col-md-5 order-2">
+					<div class="card h-auto shadow-sm-sm bg-light mt-5 mt-md-0">
+																			<div class="ratio ratio-21x9 shadow-sm-sm">                                        
+								<img width="512" height="341" src="https://engineering.wisc.edu/wp-content/uploads/2022/01/KoM9p6g4CG9E2591-512x341.jpg" class="card-img-top" alt="" loading="lazy" srcset="https://engineering.wisc.edu/wp-content/uploads/2022/01/KoM9p6g4CG9E2591-512x341.jpg 512w, https://engineering.wisc.edu/wp-content/uploads/2022/01/KoM9p6g4CG9E2591-1024x681.jpg 1024w, https://engineering.wisc.edu/wp-content/uploads/2022/01/KoM9p6g4CG9E2591-768x511.jpg 768w" sizes="(max-width: 512px) 100vw, 512px" />                                        
+							</div>
+						
+						<div class="card-body">
+														<h2 class="card-title">Inclusion, equity and diversity</h2>														<div class="card-text"><p>A strong community is one in which each member encourages and supports the others. In our college, that&#8217;s what we strive to do, so that you can reach your full potential.</p>
+</div>												
+																<div class="card-links">
+																			<a href="https://engineering.wisc.edu/about/inclusion-equity-and-diversity/" class="btn btn-primary" >Read our mission</a>																	</div>
+													</div>
+					</div>
+				</div>
+							</div>
+		</div>	</div><!-- end template-parts/content/content-page.php -->		</div>
+</main>
+	<footer class="mt-5 bg-dark">
+	<div class="container py-5 pb-0">
+		<div class="row">
+			<div class="col-12 col-md-3 text-center">
+				<a href="/" class="navbar-brand"><img src="/wp-content/themes/coe/assets/dist/img/uw_engineering_gray.svg" class="img-fluid" alt="College of Engineering - University of Wisconsin Madison" loading="lazy" width="285" height="80"></a>
+			</div>
+			<div class="col-12 col-md-6 text-center text-md-start">
+				<nav class="menu-footer-navigation-container" aria-label="Footer Menu"><ul id="footer-menu" class="row row-cols-1 row-cols-sm-2 list-unstyled mx-md-4" role="menu"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-47659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47659" role="menuitem"><a>Resources</a>
+<ul class="sub-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45243" role="menuitem"><a href="mailto:contact-us@engr.wisc.edu">Contact us</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45244" role="menuitem"><a href="https://engineering.wisc.edu/about/faculty-and-staff-directory/">People</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45245" role="menuitem"><a href="https://intranet.engineering.wisc.edu/">Intranet</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-61737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61737" role="menuitem"><a href="https://engineering.wisc.edu/student-services/">Student services</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-47660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47660" role="menuitem"><a>Quick Links</a>
+<ul class="sub-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-61736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61736" role="menuitem"><a href="https://engineering.wisc.edu/about/inclusion-equity-and-diversity/">Inclusion, equity and diversity</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-57534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57534" role="menuitem"><a href="https://engineering.wisc.edu/departments/">Departments</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-57533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57533" role="menuitem"><a href="https://engineering.wisc.edu/industry-partnerships/">Industry partnerships</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-59082" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59082" role="menuitem"><a href="https://engineering.wisc.edu/events">Events</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-64014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64014" role="menuitem"><a href="https://engineering.wisc.edu/report-an-incident/">Report bias, mistreatment and other concerns</a></li>
+</ul>
+</li>
+</ul></nav>			</div>
+			<div class="col-12 col-md-3 mt-4 mt-md-0">
+				<nav class="menu-social-menu-container" aria-label="Social Links"><ul id="social-menu" class="nav justify-content-center justify-content-md-start" role="menu"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45241 nav-item" role="menuitem"><a target="_blank" rel="nofollow noopener" href="https://www.instagram.com/uwmadengr/" class="nav-link"><i class="fab fa-instagram fa-lg" aria-hidden="true"></i> <span class="visually-hidden">See us on Instagram</span></a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45240 nav-item" role="menuitem"><a target="_blank" rel="nofollow noopener" href="https://www.youtube.com/uwmadengr" class="nav-link"><i class="fab fa-youtube fa-lg" aria-hidden="true"></i> <span class="visually-hidden">See us on YouTube</span></a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45239 nav-item" role="menuitem"><a target="_blank" rel="nofollow noopener" href="https://www.linkedin.com/school/uwmadengr" class="nav-link"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i> <span class="visually-hidden">Follow us on LinkedIn</span></a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45237 nav-item" role="menuitem"><a target="_blank" rel="nofollow noopener" href="https://www.facebook.com/UWMadEngr" class="nav-link"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i> <span class="visually-hidden">Follow us on Facebook</span></a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45238 nav-item" role="menuitem"><a target="_blank" rel="nofollow noopener" href="https://twitter.com/UWMadEngr" class="nav-link"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i> <span class="visually-hidden">Follow us on Twitter</span></a></li>
+</ul></nav>									<div id="block-10" class="widget widget_block mt-3"><p class="text-center text-md-start">1415 Engineering Drive<br>
+  Madison, WI 53706<br>
+  <a rel="noreferrer noopener" class="text-decoration-underline" href="https://www.wisc.edu/privacy-notice/" data-type="URL" data-id="https://www.wisc.edu/privacy-notice/" target="_blank">Privacy Notice</a><br>
+  Feedback, questions or accessibility issues:<a href="mailto:webmanager@engr.wisc.edu" class="text-decoration-underline"> webmanager@engr.wisc.edu</a></p>
+</div>							</div>
+		</div>
+
+	</div>
+	<div class="copyright py-3 text-center">
+		<div class="container">	&copy; 2022 Board of Regents of the <a href="https://www.wisconsin.edu/" class="text-decoration-underline" target="_blank" rel="noopener noreferrer">University of Wisconsin System</a> </div>
+	</div>
+</footer>
+			<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><script src='https://cdn.wisc.cloud/cookie-consent/1.0.1/uwcookieconsent.min.js?ver=1.0.1' id='uw-cookie-consent-plugin-js'></script>
+<script id='uw-cookie-consent-plugin-js-after'>
+window.addEventListener("load", function(){window.cookieconsent.initialize()});
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/7.2.0/swiper-bundle.min.js' id='swiper-js' integrity="sha512-XHnWZWvy5TkCnPgLU7XsWhGAks1JQ3uFutVxRSH0Z4+djsGkCkxVsYu+JgfrDicvbCmjfUf1HeMWYUvUYKgjzQ==" crossorigin="anonymous"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/js/bootstrap.bundle.min.js' id='bootstrap-js' integrity="sha512-pax4MlgXjHEPfCwcJLQhigY7+N8rt6bVvWLFyUMuxShv170X53TRzGPmPkZmGBhk+jikR8WBM4yl7A9WMHHqvg==" crossorigin="anonymous"></script>
+<script src='https://engineering.wisc.edu/wp-content/themes/coe/assets/dist/js/theme.min.js?ver=1658343148' id='theme-scripts-js' defer ></script>
+</body>
+</html>
