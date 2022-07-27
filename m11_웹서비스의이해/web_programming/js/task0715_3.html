@@ -9,11 +9,22 @@
     <script>
         window.onload = function(){
             var clock = document.getElementById('clock');
+            clock.style.color = 'yellow';
+            clock.style.textAlign = 'center'
+            clock.style.backgroundImage = 'url(https://png.pngtree.com/background/20210709/original/pngtree-blue-starry-night-sky-background-picture-image_925273.jpg)'
+            clock.style.width = '600px'
+            clock.style.width = '300px'
+            clock.style.fontSize = '200%'
+            clock.style.border = "10px solid darkgrey";
+            clock.style.borderRadius = '30px'
+            clock.style.boxShadow ='5px 5px 5px black'
+
             setInterval(function(){
                 var now = new Date();
                 clock.innerHTML = now.toString();
         }, 1000)
-        }
+            
+    }
     </script>
   
           

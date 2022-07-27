@@ -1,1 +1,33 @@
 <!-- class 속성으로 여러 문서객체를 선택하는 사례를 작성하세요, -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        window.onload = function(){
+            var heads = document.getElementsByClassName('head');
+           
+            for(var i = 0; i < heads.length; i++){
+                var head = heads[i]
+            head.style.color = 'red';
+            head.style.background = 'black';
+            head.innerHTML = 'Don`t touch this';
+            head.style.textAlign = 'center'
+
+            }
+
+        }
+    </script>
+</head>
+<body>
+    <div class="head"></div>
+    <div class="head"></div>
+    <div class="head"></div>
+    <div class="head"></div>
+    <div class="head"></div>
+    
+</body>
+</html>
